@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Informal Code Review
 ---
@@ -22,11 +22,16 @@ unlisted video, because the file (about 870 MB) is far larger than GitHub's size
 **[▶ Watch the CS-499 Code Review on YouTube](https://youtu.be/vbVR2bgEGLk)**
 
 <p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/vbVR2bgEGLk"
+<iframe width="720" height="405"
+src="https://www.youtube-nocookie.com/embed/vbVR2bgEGLk?rel=0"
 title="CS-499 Code Review" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
 allowfullscreen></iframe>
 </p>
+
+_If the player above shows "video unavailable," do a hard refresh (Ctrl+F5) to clear a cached
+copy, or use the direct link above._
 
 ## What the review covers
 
