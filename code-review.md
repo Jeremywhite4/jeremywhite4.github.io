@@ -16,18 +16,17 @@ course outcomes each enhancement targets.
 
 ## Watch the video
 
-> **Video link:** _The recorded code review (`CS-499 Module 2 Code Review.mp4`) is hosted on
-> YouTube as an unlisted video because the file (about 870 MB) is far larger than GitHub's
-> size limit. Upload the MP4 to YouTube, then paste the share URL below:_
->
-> **[▶ CS-499 Code Review - YouTube](REPLACE_WITH_YOUTUBE_URL)**
+The recorded code review (`CS-499 Module 2 Code Review.mp4`) is hosted on YouTube as an
+unlisted video, because the file (about 870 MB) is far larger than GitHub's size limit.
 
-<!-- To embed the player instead of a plain link, replace VIDEO_ID below and uncomment:
+**[▶ Watch the CS-499 Code Review on YouTube](https://youtu.be/EnPhVSevIEc)**
+
 <p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/VIDEO_ID"
-title="CS-499 Code Review" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/EnPhVSevIEc"
+title="CS-499 Code Review" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 </p>
--->
 
 ## What the review covers
 
