@@ -44,8 +44,8 @@ together, they demonstrate the full range of my computer science skills.
 
 | Outcome | Where it is demonstrated |
 |---------|--------------------------|
-| **1 — Collaborative environments / diverse audiences** | Code review, this self-assessment, professional repository artifacts (READMEs, commit history) |
-| **2 — Professional communication (oral/written/visual)** | All three narratives, READMEs, the benchmark charts, and the new dashboard visualization |
-| **3 — Design/evaluate solutions, manage trade-offs** | PBKDF2 iteration-count trade-off; list&rarr;deque and prioritized replay; index design with `explain()` |
-| **4 — Well-founded & innovative techniques/tools** | MVP + Repository, PBKDF2, JUnit/Robolectric; target networks, PER, sum tree; indexes, aggregation, pytest/mongomock |
-| **5 — Security mindset** | Salted hashing + constant-time compare; least-privilege access, credentials out of source, NoSQL injection sanitization |
+| **1: Collaborative environments / diverse audiences** | Code review, this self-assessment, professional repository artifacts (READMEs, commit history) |
+| **2: Professional communication (oral/written/visual)** | All three narratives, READMEs, the benchmark charts, and the new dashboard visualization |
+| **3: Design/evaluate solutions, manage trade-offs** | PBKDF2 iteration-count trade-off; list&rarr;deque and prioritized replay; index design with `explain()` |
+| **4: Well-founded & innovative techniques/tools** | MVP + Repository, PBKDF2, JUnit/Robolectric; target networks, PER, sum tree; indexes, aggregation, pytest/mongomock |
+| **5: Security mindset** | Salted hashing + constant-time compare; least-privilege access, credentials out of source, NoSQL injection sanitization |

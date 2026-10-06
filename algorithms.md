@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Algorithms & Data Structures — Pirate Intelligent Agent
+title: Algorithms & Data Structures - Pirate Intelligent Agent
 ---
 
 # Algorithms & Data Structures
 
-### Artifact: Pirate Intelligent Agent (CS-370 — Python / deep Q-learning)
+### Artifact: Pirate Intelligent Agent (CS-370 - Python / deep Q-learning)
 
 | | |
 |---|---|
@@ -28,8 +28,8 @@ title: Algorithms & Data Structures — Pirate Intelligent Agent
 | Area | Original | Enhanced |
 |------|----------|----------|
 | Replay buffer store | Python `list` | `collections.deque(maxlen=N)` ring buffer |
-| Full-buffer eviction | `del memory[0]` — **O(n)** | auto-evict oldest — **O(1)** |
-| Sampling | Uniform random | **Prioritized experience replay** via a sum tree — O(log n) |
+| Full-buffer eviction | `del memory[0]` - **O(n)** | auto-evict oldest - **O(1)** |
+| Sampling | Uniform random | **Prioritized experience replay** via a sum tree - O(log n) |
 | Bias correction | None | Importance-sampling weights |
 | Exploration | Ad-hoc epsilon nudges | **Exponential epsilon-decay** schedule |
 | Evaluation | Win rate only | Seeded **benchmark harness** (epochs-to-95%, steps-to-goal, wall-clock) |
@@ -40,7 +40,7 @@ about **46x** more often than uniform sampling.
 
 ---
 
-# Algorithms and Data Structures — Pirate Intelligent Agent
+# Algorithms and Data Structures - Pirate Intelligent Agent
 
 ### Description of the Artifact and Justification for Its Inclusion
 
