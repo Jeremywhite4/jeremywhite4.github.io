@@ -5,6 +5,8 @@ title: Software Design & Engineering - WeightTracker
 
 # Software Design & Engineering
 
+**Enhancement One of Three**
+
 ### Artifact: WeightTracker (CS-360 - Java / Android / SQLite)
 
 | | |

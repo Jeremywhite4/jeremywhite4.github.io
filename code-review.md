@@ -7,16 +7,18 @@ title: Informal Code Review
 
 [&larr; Back to portfolio home](index.md)
 
-Before enhancing any code, I produced an informal code review that walks through the
-original state of all three artifacts and the enhancements I planned for each. For every
-artifact the review covers, in order: **(1) existing functionality, (2) a code analysis
-against the CS-499 checklist, and (3) the planned enhancement**, with the specific skills
-and course outcomes each enhancement targets.
+This is my single informal code review for the capstone, recorded once in Module Two
+(Milestone One) and covering all three artifacts in one video. Before enhancing any code, I
+walk through the original state of each artifact and the enhancements I planned for it. For
+every artifact the review covers, in order: **(1) existing functionality, (2) a code analysis
+against the CS-499 checklist, and (3) the planned enhancement**, with the specific skills and
+course outcomes each enhancement targets.
 
 ## Watch the video
 
-> **Video link:** _The recorded code review is hosted on YouTube (unlisted) because the
-> file is far larger than GitHub's size limit. Paste the YouTube URL here once uploaded:_
+> **Video link:** _The recorded code review (`CS-499 Module 2 Code Review.mp4`) is hosted on
+> YouTube as an unlisted video because the file (about 870 MB) is far larger than GitHub's
+> size limit. Upload the MP4 to YouTube, then paste the share URL below:_
 >
 > **[▶ CS-499 Code Review - YouTube](REPLACE_WITH_YOUTUBE_URL)**
 
