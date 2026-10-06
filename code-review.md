@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Informal Code Review
 ---
@@ -19,10 +19,10 @@ course outcomes each enhancement targets.
 The recorded code review (`CS-499 Module 2 Code Review.mp4`) is hosted on YouTube as an
 unlisted video, because the file (about 870 MB) is far larger than GitHub's size limit.
 
-**[▶ Watch the CS-499 Code Review on YouTube](https://youtu.be/EnPhVSevIEc)**
+**[▶ Watch the CS-499 Code Review on YouTube](https://youtu.be/vbVR2bgEGLk)**
 
 <p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/EnPhVSevIEc"
+<iframe width="720" height="405" src="https://www.youtube.com/embed/vbVR2bgEGLk"
 title="CS-499 Code Review" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
