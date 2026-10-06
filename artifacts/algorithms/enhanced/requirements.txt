@@ -1,0 +1,8 @@
+# Full dependency set to run the deep Q-learning TRAINING path (dqn_agent.py).
+# TensorFlow 2.16 requires Python 3.9-3.11 (use a matching interpreter, e.g. the
+# CS-370 Codio/Colab environment). The data-structure core and benchmark run
+# without these - see requirements-core.txt.
+numpy==1.26.4
+tensorflow==2.16.1
+keras==3.4.1
+matplotlib

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- SMS Permission for goal weight notifications -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <!-- Telephony feature (not required to use, app works without it) -->
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WeightTracker"
+        tools:targetApi="31">
+
+        <!-- Login Screen (Launcher) -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Weight History Screen -->
+        <activity android:name=".WeightHistoryActivity" />
+
+        <!-- Add Weight Screen -->
+        <activity android:name=".AddWeightActivity" />
+
+        <!-- Goal Weight Screen -->
+        <activity android:name=".GoalWeightActivity" />
+
+    </application>
+
+</manifest>

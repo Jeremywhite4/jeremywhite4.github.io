@@ -1,0 +1,14 @@
+# Enhanced Animal Shelter Dashboard - Enhancement Three (Databases)
+# Runtime dependencies for the dashboard + data-access layer.
+pymongo>=4.6,<5
+pandas>=2.0
+python-dotenv>=1.0
+dash>=2.14
+dash-leaflet>=1.0
+plotly>=5.18
+jupyter-dash>=0.4.2
+
+# Offline / test dependencies (let the notebook Run All without a live MongoDB,
+# and back the unit-test suite).
+mongomock>=4.1
+pytest>=7.4

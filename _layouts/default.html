@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      body { max-width: 920px; margin: 0 auto; padding: 0 20px 60px; line-height: 1.55; }
+      header.site-nav {
+        border-bottom: 1px solid #444; margin-bottom: 2rem; padding: 1rem 0;
+      }
+      header.site-nav .brand { font-size: 1.1rem; font-weight: 700; }
+      header.site-nav nav a { margin-right: 1.1rem; white-space: nowrap; }
+      header.site-nav nav { margin-top: .5rem; }
+      table { border-collapse: collapse; width: 100%; margin: 1rem 0; display: block; overflow-x: auto; }
+      th, td { border: 1px solid #555; padding: 6px 10px; text-align: left; vertical-align: top; }
+      th { background: rgba(255,255,255,0.06); }
+      code { padding: .1em .3em; border-radius: 3px; }
+      footer.site-footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #444; font-size: .85rem; }
+    </style>
+  </head>
+  <body>
+    <header class="site-nav">
+      <div class="brand">{{ site.title }}</div>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/self-assessment' | relative_url }}">Self-Assessment</a>
+        <a href="{{ '/code-review' | relative_url }}">Code Review</a>
+        <a href="{{ '/software-engineering' | relative_url }}">Software Eng.</a>
+        <a href="{{ '/algorithms' | relative_url }}">Algorithms</a>
+        <a href="{{ '/databases' | relative_url }}">Databases</a>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <p>{{ site.title }} &middot; Jeremy White &middot;
+         <a href="https://github.com/Jeremywhite4/jeremywhite4.github.io">Source on GitHub</a></p>
+    </footer>
+  </body>
+</html>

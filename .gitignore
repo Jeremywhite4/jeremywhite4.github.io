@@ -1,0 +1,15 @@
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.tmp
+~WRL*.tmp
+
+# Local build tooling (kept out of the published repo)
+convert_docx.py
+build_pages.py
+_tmp_*.md
