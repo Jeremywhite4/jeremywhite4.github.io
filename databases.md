@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Databases — Animal Shelter Dashboard
+title: Databases - Animal Shelter Dashboard
 ---
 
 # Databases
 
-### Artifact: Animal Shelter Dashboard (CS-340 — Python / Dash / MongoDB)
+### Artifact: Animal Shelter Dashboard (CS-340 - Python / Dash / MongoDB)
 
 | | |
 |---|---|

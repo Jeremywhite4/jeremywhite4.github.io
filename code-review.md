@@ -18,7 +18,7 @@ and course outcomes each enhancement targets.
 > **Video link:** _The recorded code review is hosted on YouTube (unlisted) because the
 > file is far larger than GitHub's size limit. Paste the YouTube URL here once uploaded:_
 >
-> **[▶ CS-499 Code Review — YouTube](REPLACE_WITH_YOUTUBE_URL)**
+> **[▶ CS-499 Code Review - YouTube](REPLACE_WITH_YOUTUBE_URL)**
 
 <!-- To embed the player instead of a plain link, replace VIDEO_ID below and uncomment:
 <p>

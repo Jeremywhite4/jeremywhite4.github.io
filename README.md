@@ -1,4 +1,4 @@
-# Jeremy White — CS-499 Computer Science Capstone ePortfolio
+# Jeremy White - CS-499 Computer Science Capstone ePortfolio
 
 Live site: **https://jeremywhite4.github.io/**
 

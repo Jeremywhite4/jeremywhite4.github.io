@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Jeremy White — CS Capstone ePortfolio
+title: Jeremy White - CS Capstone ePortfolio
 ---
 
-# Jeremy White — Computer Science ePortfolio
+# Jeremy White - Computer Science ePortfolio
 
 Welcome to my professional ePortfolio for the **CS-499 Computer Science Capstone**
 at Southern New Hampshire University. This site presents the work from my
@@ -20,14 +20,14 @@ application (software engineering).
 
 ## Contents
 
-- [Professional Self-Assessment](self-assessment.md) — the formal introduction to my
+- [Professional Self-Assessment](self-assessment.md) - the formal introduction to my
   skills and the portfolio as a whole.
-- [Informal Code Review (video)](code-review.md) — a walkthrough of the original
+- [Informal Code Review (video)](code-review.md) - a walkthrough of the original
   artifacts and my enhancement plans.
 - **The three enhancements:**
-  1. [Software Design and Engineering](software-engineering.md) — WeightTracker (Java / Android / SQLite)
-  2. [Algorithms and Data Structures](algorithms.md) — Pirate Intelligent Agent (Python / deep Q-learning)
-  3. [Databases](databases.md) — Animal Shelter Dashboard (Python / Dash / MongoDB)
+  1. [Software Design and Engineering](software-engineering.md) - WeightTracker (Java / Android / SQLite)
+  2. [Algorithms and Data Structures](algorithms.md) - Pirate Intelligent Agent (Python / deep Q-learning)
+  3. [Databases](databases.md) - Animal Shelter Dashboard (Python / Dash / MongoDB)
 
 ---
 
