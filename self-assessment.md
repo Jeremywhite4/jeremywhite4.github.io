@@ -22,16 +22,16 @@ program as well as the three enhanced artifacts:
   pricing.
 
 ### The five topics the self-assessment must cover
-- **Collaborating in a team environment** — supported by the code review (peer / manager
+- **Collaborating in a team environment**: supported by the code review (peer / manager
   audience), professional repository artifacts, and program experiences.
-- **Communicating with stakeholders** — translating technical trade-offs into clear
+- **Communicating with stakeholders**: translating technical trade-offs into clear
   written, oral, and visual communication.
-- **Data structures and algorithms** — evidenced by the [Pirate Intelligent Agent](algorithms.md)
+- **Data structures and algorithms**: evidenced by the [Pirate Intelligent Agent](algorithms.md)
   enhancement (O(n)&rarr;O(1) buffer, O(log n) prioritized replay).
-- **Software engineering and databases** — evidenced by the
+- **Software engineering and databases**: evidenced by the
   [WeightTracker](software-engineering.md) layered redesign and the
   [Animal Shelter](databases.md) indexing/aggregation work.
-- **Security** — evidenced by salted PBKDF2 hashing, anti-enumeration, least-privilege
+- **Security**: evidenced by salted PBKDF2 hashing, anti-enumeration, least-privilege
   database access, and input/operator-injection sanitization across the artifacts.
 
 ### How the artifacts fit together
