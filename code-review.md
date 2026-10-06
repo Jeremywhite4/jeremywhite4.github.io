@@ -27,12 +27,6 @@ title="CS-499 Code Review" frameborder="0" allowfullscreen></iframe>
 </p>
 -->
 
-## Code review script / narration outline
-
-The full narration outline that structures the video is included for reference:
-
-- [Code review script (Markdown)](code-review-script.md)
-
 ## What the review covers
 
 | Artifact | Primary weakness identified | Planned enhancement |
