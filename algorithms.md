@@ -5,6 +5,8 @@ title: Algorithms & Data Structures - Pirate Intelligent Agent
 
 # Algorithms & Data Structures
 
+**Enhancement Two of Three**
+
 ### Artifact: Pirate Intelligent Agent (CS-370 - Python / deep Q-learning)
 
 | | |

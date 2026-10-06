@@ -33,11 +33,11 @@ application (software engineering).
 
 ## The Enhancements at a Glance
 
-| Category | Artifact | Original course | Headline enhancement |
-|----------|----------|-----------------|----------------------|
-| **Software Design & Engineering** | [WeightTracker](software-engineering.md) | CS-360 | Layered MVP + Repository architecture; plaintext passwords replaced with salted PBKDF2 hashing |
-| **Algorithms & Data Structures** | [Pirate Intelligent Agent](algorithms.md) | CS-370 | Replay buffer re-engineered from an O(n) list to an O(1) deque + O(log n) prioritized replay on a sum tree |
-| **Databases** | [Animal Shelter Dashboard](databases.md) | CS-340 | Indexes with `explain()` evidence, an aggregation pipeline + new chart, credentials out of source, and injection sanitization |
+| # | Category | Artifact | Original course | Headline enhancement |
+|---|----------|----------|-----------------|----------------------|
+| **1** | **Software Design & Engineering** | [WeightTracker](software-engineering.md) | CS-360 | Layered MVP + Repository architecture; plaintext passwords replaced with salted PBKDF2 hashing |
+| **2** | **Algorithms & Data Structures** | [Pirate Intelligent Agent](algorithms.md) | CS-370 | Replay buffer re-engineered from an O(n) list to an O(1) deque + O(log n) prioritized replay on a sum tree |
+| **3** | **Databases** | [Animal Shelter Dashboard](databases.md) | CS-340 | Indexes with `explain()` evidence, an aggregation pipeline + new chart, credentials out of source, and injection sanitization |
 
 ---
 
