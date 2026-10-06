@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weight Tracker</string>
+
+    <!-- Login Screen -->
+    <string name="login_subtitle">Track your progress, reach your goal</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_create_account">Create Account</string>
+
+    <!-- Weight History Screen -->
+    <string name="title_weight_history">Weight History</string>
+    <string name="header_date">Date</string>
+    <string name="header_weight">Weight (lbs)</string>
+    <string name="header_action">Action</string>
+    <string name="button_add_weight">+ Add Weight</string>
+    <string name="button_goal">Goal</string>
+    <string name="button_delete">Delete</string>
+
+    <!-- Add Weight Screen -->
+    <string name="title_add_weight">Add Weight</string>
+    <string name="hint_weight">Enter weight (lbs)</string>
+    <string name="placeholder_date">Today\'s Date</string>
+    <string name="button_save">Save</string>
+
+    <!-- Goal Weight Screen -->
+    <string name="title_goal_weight">Goal Weight</string>
+    <string name="current_goal_not_set">Current Goal: Not set</string>
+    <string name="hint_goal_weight">Enter goal weight (lbs)</string>
+    <string name="button_save_goal">Save Goal</string>
+
+    <!-- SMS Permission -->
+    <string name="sms_permission_rationale">Allow SMS notifications to get alerted when you reach your goal weight.</string>
+</resources>

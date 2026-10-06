@@ -1,3 +1,18 @@
 theme: jekyll-theme-midnight
 title: CS-499 Computer Science Capstone
-description: Jeremy White's Page for the CS Capstone Couse
+description: Jeremy White's professional ePortfolio for the SNHU Computer Science capstone.
+
+# Use the custom default layout (with site navigation) for all pages and markdown files.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Keep the published site focused on the portfolio; exclude build tooling and raw artifact trees
+# from Jekyll's own processing (the artifact files are still served as static files).
+exclude:
+  - convert_docx.py
+  - build_pages.py
+  - "*.tmp"
+  - _tmp_*.md
