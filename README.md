@@ -27,7 +27,7 @@ of computer science, each with its original code, enhanced code, and a reflectiv
 ├── software-engineering.md / algorithms.md / databases.md
 ├── _layouts/default.html         # site navigation + styling
 ├── _config.yml                   # Jekyll config (jekyll-theme-midnight)
-├── narratives/                   # the three enhancement narratives (.docx) + journal
+├── narratives/                   # the three enhancement narratives (.docx)
 └── artifacts/
     ├── software-engineering/{original,enhanced}
     ├── algorithms/{original,enhanced}
